@@ -1,35 +1,38 @@
-# Javier Ramírez González
+## Experiencia
 
-![Profile Picture](path_to_your_picture.jpg)
+### Becario investigador
+**Universidad Autónoma de Baja California** · Contrato de prácticas  
+**ago. 2024 - actualidad** · 3 meses  
+Ensenada, Baja California, México
 
-## About Me
-I am a software developer and machine learning engineer specializing in medical image analysis and machine learning models. I have experience in segmentation, classification, and anomaly detection projects.
+- Herramientas: MLflow, Python
 
----
+## Educación
 
-## Education
-- **B.S., Computer Science** | University Name (_Expected May 2025_)
-- **Online Courses:**
-  - Deep Learning Specialization | Coursera
-  - CS224n: Natural Language Processing with Deep Learning | Stanford University
+### Universidad Autónoma de Baja California
+**Licenciatura en ciencias computacionales**  
+Programación informática, general  
+**2021 - 2025**
 
----
+- Redes neuronales convolucionales (CNN)
+- Redes neuronales
+- Otras 2 aptitudes más
 
-## Work Experience
+## Licencias y certificaciones
 
-### **Software Developer Intern @ XYZ Corp** (_June 2023 - Present_)
-- Developed an anomaly detection pipeline using **PyTorch** for medical image analysis, improving diagnostic accuracy by 20%.
-- Worked on optimizing the DICOM to PNG conversion process, resulting in a 50% reduction in processing time.
+### DeepLearning.AI TensorFlow Developer Specialization  
+Emitida por **DeepLearning.AI**  
+Expedición: **nov. 2023**  
+ID de la credencial: **QD9NJ7J6F9R9**  
+[Mostrar credencial](#) <!-- You can insert a link if you have it -->
 
-### **Machine Learning Research Assistant @ UABC** (_September 2022 - May 2023_)
-- Collaborated with CICESE on breast cancer detection projects, developing models to classify mammography images based on density.
+- Competencias: Python, Deep learning, y otra aptitud más
 
----
+## Proyectos
 
-## Projects
+### Fine-Tuning SAM Segmentation on Custom Dataset for Breast Medical Images Without Pectoral Muscle  
+**feb. 2024 - actualidad**
 
-### **Breast Cancer Anomaly Detection** 
-[GitHub Repository](https://github.com/username/project) | [Demo](https://username.github.io/demo)
+Asociada con **Universidad Autónoma de Baja California**
 
-- Built a deep learning model to detect breast anomalies using mammogram images, utilizing **CNNs** and **Autoencoders**.
-- Published a research paper on
+- Herramientas: Python, PyTorch, y otras 6 aptitudes más
